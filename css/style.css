@@ -1,5 +1,5 @@
 body {
-    background-color: lightgray ;
+    background-color: rgb(204, 204, 204) ; 
 }
 
 #main {
@@ -28,7 +28,7 @@ header {
     max-height: 100%;
     background-color: white;
     text-align: center;
-        display: block;
+    display: block; 
 }
 
 #img {
